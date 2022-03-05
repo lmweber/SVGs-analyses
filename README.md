@@ -1,4 +1,6 @@
 # nnSVG-exploratory
 
-Repository containing exploratory analyses for nnSVG project (method for spatially variable genes).
+Repository containing exploratory analysis scripts for nnSVG project (method to identify spatially variable genes).
+
+R Markdown files are saved in [scripts/] directory.
 
